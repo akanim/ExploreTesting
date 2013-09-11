@@ -1,4 +1,4 @@
 ExploreTesting
 ==============
 
-Exploring TDD using unfarmiliar tongues
+Exploring TDD using unfarmiliar tongues.
